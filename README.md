@@ -32,3 +32,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+VUE/CLI3的starter
+使用了ElementUI、axios、vuex
+自定义svg组件使用
+文件断点续传
